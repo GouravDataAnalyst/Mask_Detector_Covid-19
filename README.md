@@ -27,7 +27,7 @@ Download from the above link and place it inside model folder.
 
 # Flow Diagram
 
-Flow_Diagram.png
+https://github.com/insanepopeye/Mask_Detector_Covid-19/blob/master/Flow_Diagram.png
 
 # Output 
 
